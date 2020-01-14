@@ -3,5 +3,5 @@ CMakeFiles/
 cmake_install.cmake
 Makefile
 qTchat
-qTchat_autogen/
 qTchat.cbp
+qTchat_autogen/
